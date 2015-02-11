@@ -2,7 +2,7 @@
 
 I am unhappy with our educational system and the way schools are organized. I think that there are many issues that can be easily fixed by reconsidering the students & teachers workflow and optimizing them.
 
-Besides the obvious idiocy like printing out forests worth of paper for tests, which will then be filled out and thrown away immediately after they have been corrected, there are apparent issues like wasting hours and hours of time with redundant work that no one benefits from. Just think of how many times a teacher has to redo a panel on the blackboard.
+Besides the obvious idiocy like printing out forests worth of paper for tests, which will then be thrown away immediately after they have been corrected, there are apparent issues like wasting hours and hours of time with redundant work that no one benefits from. Just think of how many times a teacher has to redo a panel on the blackboard. We should be able to create and share documents easily.
  
 We can improve this situation and make it possible for both teachers & students to use their time in a more efficient and fun way. 
 
@@ -12,7 +12,7 @@ I have 4 separate applications in mind
 
 This is the management area for a Fundisa network used in a school. Here we can organize teachers & students accounts, collect data, organize classes and similiar stuff.
 
-## Fundisa-Techer
+## Fundisa-Teacher
 
 Every teacher can log into this application with their private credentials. This is the place where documents and tests are created and shared with a class, tasks are corrected and the overall progress is logged. 
 
